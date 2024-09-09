@@ -1,35 +1,8 @@
 {
   "tickets": [
-    {
-      "id": "e5a2",
-      "phone": "996794364",
-      "numberOfAmenities": "2",
-      "ametinines": [
-        {
-          "name": "Artur",
-          "cpf": "05578109306"
-        },
-        {
-          "name": "Jose",
-          "cpf": "50029423341"
-        }
-      ]
-    }
+    
   ],
   "receivers": [
-    {
-      "id": "a8a6",
-      "name": "Antonio Artur Santos",
-      "phone": "996794364",
-      "typeTickets": "cabin",
-      "quantityTickets": "2"
-    },
-    {
-      "id": "20ee",
-      "name": "Gustavo",
-      "phone": "85996794364",
-      "typeTickets": "premium",
-      "quantityTickets": "4"
-    }
+    
   ]
 }
